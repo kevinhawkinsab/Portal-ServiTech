@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fc .fc-toolbar-title {
+  @apply text-base md:text-lg font-semibold;
+}
